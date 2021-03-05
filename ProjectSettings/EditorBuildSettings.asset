@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00-ADV Pract 2/00-ADV Pract 2.unity
     guid: 1e7813cb83c2a4d40aeca058c7bf065c
-  - enabled: 1
+  - enabled: 0
     path: Assets/00-ADV Pract 3/00-Lesson3.unity
     guid: c8de0004eb259df458de64c7c1207332
+  - enabled: 1
+    path: Assets/00-ADV Project 1/Project.unity
+    guid: 36ba01d6d116ba24ebfa1739cd2b7c0a
   m_configObjects: {}
