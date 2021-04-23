@@ -32,7 +32,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00-ADV Project 3/Project3.unity
     guid: 4ee895f6b3d4d934db4b30c41ff83a3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/00-ADV Pract 6/Test_Map 1.unity
     guid: 6d8023c8d75a6d04ca955d090f286b77
+  - enabled: 1
+    path: Assets/00-ADV Pract 7/SceneBlendTree.unity
+    guid: 37b85a2558de8284ca71e9f0ac41a9e5
   m_configObjects: {}
