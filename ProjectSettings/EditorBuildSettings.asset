@@ -35,7 +35,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00-ADV Pract 6/Test_Map 1.unity
     guid: 6d8023c8d75a6d04ca955d090f286b77
-  - enabled: 1
+  - enabled: 0
     path: Assets/00-ADV Pract 7/SceneBlendTree.unity
     guid: 37b85a2558de8284ca71e9f0ac41a9e5
+  - enabled: 1
+    path: Assets/00-ADV Pract 8/NavMesh scene.unity
+    guid: 1b8550efe56fa8047adeae2d493c3993
   m_configObjects: {}
